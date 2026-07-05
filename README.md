@@ -87,11 +87,11 @@ A tool that scores and optimizes resumes against job descriptions using TF-IDF a
 - 📦 AI Product Management (PRDs, Roadmapping, User Research & Product Strategy)
 
 ### 🤝 Connect With Me
+📧 Email: mehak.verma2705@gmail.com
 
-📧 **Email: mehak.verma2705@gmail.com  
-💼 **LinkedIn: https://www.linkedin.com/in/mehak-verma-b82012294/ 
+💼 LinkedIn: https://linkedin.com/in/mehak-verma-b82012294
+
 ---
-
 <p align="center">
   <i>"Passionate about turning ideas into intelligent, scalable AI products." 🚀</i>
 </p>
