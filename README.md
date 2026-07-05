@@ -68,19 +68,6 @@ A tool that scores and optimizes resumes against job descriptions using TF-IDF a
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=https://github.com/mehak2710&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/mehak2710&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/mehak2710&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📚 Currently Learning
 
 - 🤖 **Agentic AI** — LangGraph, CrewAI, multi-agent workflows
