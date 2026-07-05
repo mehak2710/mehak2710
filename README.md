@@ -90,8 +90,6 @@ A tool that scores and optimizes resumes against job descriptions using TF-IDF a
 
 📧 **Email:** mehak.verma2705@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/mehak-verma-b82012294/ 
-💻 **GitHub:** https://github.com/mehak2710
-
 ---
 
 <p align="center">
