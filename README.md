@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mehak Verma 👋</h1>
-<h3 align="center">Data Science Graduate | Aspiring ML Engineer | Exploring Product Management</h3>
+<h3 align="center">Data Science Graduate | Aspiring AI Engineer | Exploring Generative AI</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=BCA+Data+Science+Graduate;Building+ML+%2B+GenAI+Projects;Exploring+Agentic+AI;Transitioning+into+Product+Management" alt="Typing SVG" />
@@ -17,10 +17,13 @@ Lately, I've been exploring how AI products get built beyond just the model — 
 
 ### 🎯 Current Focus
 
-- 🔭 Building deployable ML/GenAI portfolio projects (forecasting, RAG, NLP)
-- 🤖 Diving deep into **Agentic AI** — LangGraph, CrewAI, and fine-tuning
-- 📊 Preparing for **Data Science & ML interviews**
-- 🧭 Exploring a transition into **Product Management**, with hands-on PM case studies
+- ✨ **Generative AI** — LLM-powered applications, prompt engineering, and RAG pipelines
+- 🤖 **Agentic AI** — multi-agent systems, tool-using LLMs, and autonomous workflow orchestration
+- 🧩 **Model Context Protocol (MCP)** — connecting LLMs to external tools and data sources
+- 🔌 **API Integration** — Groq API, OpenAI API, and other LLM provider APIs for building AI-powered applications
+- 🚀 **Deployment with Streamlit** — building and hosting interactive ML/AI applications
+- 🧠 **Fine-tuning & Optimization** — LoRA/QLoRA, quantization for efficient LLM deployment
+- 🔍 **Vector Databases & Semantic Search** — Pinecone, ChromaDB,FAISS and scalable retrieval systems
 
 
 ---
@@ -52,7 +55,7 @@ Lingaya's Vidyapeeth
 
 **Tools & Platforms:** Jupyter Notebook, VS Code, Google Colab
 
-**Other Interests:** Product Thinking & Guesstimates, Market Sizing, Notion (case studies & documentation), Technical Writing
+**Other Interests:** Product management(Product Thinking & Guesstimates, Market Sizing), Notion (case studies & documentation), Technical Writing
 
 ---
 
@@ -70,11 +73,18 @@ A tool that scores and optimizes resumes against job descriptions using TF-IDF a
 
 ### 📚 Currently Learning
 
-- 🤖 **Agentic AI** — LangGraph, CrewAI, multi-agent workflows
-- 🎯 **Fine-tuning LLMs** for domain-specific tasks
-- 📈 **Product Management** fundamentals — case studies, guesstimates, market sizing
-
----
+- ☁️ Cloud Deployment with **AWS**
+- 🐳 Containerization & Deployment using **Docker**
+- 🤖 Agentic AI Systems & AI Agents
+- ⚡ LLM Orchestration with LangChain & LangGraph
+- 🛡️ Responsible AI (Fairness, Safety & Ethics)
+- 📋 AI Governance & Compliance
+- 🔒 AI Security & Prompt Engineering
+- 🚀 Scalable AI Application Deployment
+- 📊 LLM Evaluation & Monitoring
+- 🔄 AI Workflows & Automation
+- 🏗️ MLOps & LLMOps Fundamentals
+- 📦 AI Product Management (PRDs, Roadmapping, User Research & Product Strategy)
 
 ### 🤝 Connect With Me
 
@@ -87,5 +97,5 @@ A tool that scores and optimizes resumes against job descriptions using TF-IDF a
 ---
 
 <p align="center">
-  <i>"Turning data into decisions, one model (and one product idea) at a time." 🚀</i>
+  <i>"Passionate about turning ideas into intelligent, scalable AI products." 🚀</i>
 </p>
