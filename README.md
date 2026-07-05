@@ -88,8 +88,8 @@ A tool that scores and optimizes resumes against job descriptions using TF-IDF a
 
 ### 🤝 Connect With Me
 
-📧 **Email:** mehak.verma2705@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/mehak-verma-b82012294/ 
+📧 **Email: mehak.verma2705@gmail.com  
+💼 **LinkedIn: https://www.linkedin.com/in/mehak-verma-b82012294/ 
 ---
 
 <p align="center">
