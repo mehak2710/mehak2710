@@ -61,13 +61,25 @@ Lingaya's Vidyapeeth
 
 ### 🚀 Featured Projects
 
-#### 📄 [RAG-Based PDF Summarizer](https://github.com/mehak2710/RAG-PDF-Summarizer)
+#### [RAG-Based PDF Summarizer](https://github.com/mehak2710/RAG-PDF-Summarizer)
 A Retrieval-Augmented Generation app that summarizes and answers questions over PDF documents using semantic search and LLMs.
 `pypdf` `FAISS` `Sentence-Transformers` `Groq API`
 
-#### 📝 [Resume Optimizer](https://github.com/mehak2710/Resume-Optimizer)
+#### [Resume Optimizer](https://github.com/mehak2710/Resume-Optimizer)
 A tool that scores and optimizes resumes against job descriptions using TF-IDF and cosine similarity.
 `Python` `scikit-learn` `TF-IDF`
+
+#### [AI Cost Optimization Agent](https://github.com/mehak2710/AI-Cost-Optimization-Agent)
+Enterprise AI FinOps platform that analyzes LLM API usage and cost data using DuckDB + SQL, and generates AI-powered recommendations to reduce spend while preserving response quality.
+
+#### [Unicorn Companies Analyzer](https://github.com/mehak2710/unicorn-companies-analysis)
+business analytics project that uses MySQL to analyze a global dataset of unicorn companies. The project explores trends in company valuations, geographic distribution, industries, investors, funding stages, and startup growth through SQL queries, providing actionable business insights using data.
+
+#### [FinHealth AI](https://github.com/mehak2710/FinHealth-AI)
+Streamlit app that scores a user's financial health and delivers personalized, AI-generated money advice — built to demonstrate how a modern fintech product can combine simple financial logic with an LLM-powered coaching layer.
+
+#### [Apex Renewal](https://github.com/mehak2710/saas-renewal-analytics)
+A fintech-grade internal analytics dashboard for subscription revenue teams — renewals, churn, customer health, expansion revenue, and executive reporting, built end-to-end in Python.
 
 ---
 
