@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mehak Verma 👋</h1>
-<h3 align="center">Data Science Graduate | Aspiring AI Engineer | Exploring Generative AI</h3>
+<h3 align="center">Machine Learning | Computer Vision | Generative AI | Agentic AI</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=BCA+Data+Science+Graduate;Building+ML+%2B+GenAI+Projects;Exploring+Agentic+AI;Exploring+Product+Management" alt="Typing SVG" />
