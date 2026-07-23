@@ -9,9 +9,9 @@
 
 ### 👩‍💻 About Me
 
-I'm **Mehak Verma**, a BCA Data Science graduate from **Lingaya's Vidyapeeth**. I love turning data into insights and building end-to-end AI systems — from training a model to deploying it as a usable app. I also write on **Substack**, where I explore ideas at the intersection of research, technology, and everyday life.
+I'm **Mehak Verma**, a Data Science graduate with a strong interest in developing AI-driven applications. I enjoy working across **Machine Learning, Computer Vision, Generative AI, and Agentic AI**, with a focus on building practical, production-ready solutions to real business challenges.
 
-Lately, I've been exploring how AI products get built beyond just the model — which has pulled me toward **Product Management**, especially for AI-native products.
+I'm equally curious about **Product Management**, where I enjoy learning how successful AI products are envisioned, developed, and delivered to users.
 
 ---
 
@@ -51,11 +51,11 @@ Lingaya's Vidyapeeth
 
 **MLOps & Deployment:** Streamlit, Docker, MLflow, Git, GitHub, Model Versioning, CI basics
 
-**Databases:** MySQL, PostgreSQL, SQLite
+**Databases:** MySQL, PostgreSQL, SQLite, DuckDB
 
 **Tools & Platforms:** Jupyter Notebook, VS Code, Google Colab
 
-**Other Interests:** Product management(Product Thinking & Guesstimates, Market Sizing), Notion (case studies & documentation), Technical Writing
+**Other Interests:** Product management(Product Thinking & Guesstimates, Market Sizing), Product analytics , quantitative analytics
 
 ---
 
